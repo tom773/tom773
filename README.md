@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>G'day, I'm Tom!</h2>
 
-<!--
-**tom773/tom773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate junior developer from Melbourne, Australia, always eager to explore new languages and frameworks. I enjoy tackling unique problems with innovative solutions and believe in the power of continuous learning.<br>
 
-Here are some ideas to get you started:
+🌍 <strong>Location:</strong> Melbourne, Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚘 <strong>Daily Driver:</strong> Go & TypeScript
+
+🛠️ <strong>Other Tools in my Belt:</strong> Rust, Python, Svelte, Lua, Zig, Docker, Websockets, WASM
+
+🤓 Vim btw. 
+
+Feel free to check out my repositories and connect with me on <a href="https://www.linkedin.com/in/ts-matthews/">LinkedIn</a>!
