@@ -8,6 +8,6 @@ I'm a passionate junior developer from Melbourne, Australia, always eager to exp
 
 🛠️ <strong>Other Tools in my Belt:</strong> Rust, Python, Svelte, Lua, Zig, Docker, Websockets, WASM
 
-🤓 Vim btw. 
+🤓 Vim enthusiast.
 
 Feel free to check out my repositories and connect with me on <a href="https://www.linkedin.com/in/ts-matthews/">LinkedIn</a>!
