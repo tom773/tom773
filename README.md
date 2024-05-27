@@ -1,6 +1,6 @@
 <h2>G'day, I'm Tom!</h2>
 
-I'm a passionate junior developer from Melbourne, Australia, always eager to explore new languages and frameworks. I enjoy tackling unique problems with innovative solutions and believe in the power of continuous learning.<br>
+I'm a passionate junior developer from Melbourne, Australia, always eager to explore new languages and frameworks. I enjoy tackling unique problems with innovative solutions and believe in the power of continuous learning. I have a background in Biomedical Science, which has allowed me to leverage my programming knowledge in data analytics and bioinformatics, enabling me to solve complex biological problems with computational methods such as genome analysis, protein structure analysis for drug development & target identification, and epidemiological modeling. <br>
 
 🌍 <strong>Location:</strong> Melbourne, Australia
 
