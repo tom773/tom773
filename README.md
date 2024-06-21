@@ -4,9 +4,9 @@ I'm a passionate junior developer from Melbourne, Australia, always eager to exp
 
 🌍 <strong>Location:</strong> Melbourne, Australia
 
-🚘 <strong>Daily Drivers:</strong> Go & TypeScript
+🚘 <strong>Daily Drivers:</strong> Go, Rust, & TypeScript
 
-🛠️ <strong>Other Tools in my Belt:</strong> Rust, Python, Svelte, Lua, Zig, Docker, Websockets, WASM
+🛠️ <strong>Other Tools in my Belt:</strong> C, Python, Svelte, Lua, Zig, Docker, Websockets, WASM
 
 🤓 Vim enthusiast.
 
